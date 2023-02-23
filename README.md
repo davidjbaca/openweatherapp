@@ -7,7 +7,7 @@ Link - https://davidjbaca.github.io/openweatherapp/
 
 Openweatherapp, an app that can show you live weather in any city in the world. Created with HTML, CSS, Javascript, and Openweather API. 
 
-# My Calculator Screen shot
+# Openweatherapp Screen shot
 
 ![Start Page](https://i.imgur.com/HQY8fJd.png)
 
